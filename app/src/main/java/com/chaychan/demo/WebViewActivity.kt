@@ -58,7 +58,7 @@ class WebViewActivity : AppCompatActivity() {
 
         webView.webViewClient = object : WebViewClient() {
             override fun shouldOverrideUrlLoading(view: WebView, url: String): Boolean {
-                if (TextUtils.isEmpty(url)) {
+                if (url.isNullOrEmpty()) {
                     return false
                 }
 
