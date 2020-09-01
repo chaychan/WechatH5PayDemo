@@ -4,12 +4,12 @@
 
 ### 演示
 
-![image](../img/pay.gif)
+![image](https://github.com/chaychan/WechatH5PayDemo/blob/master/img/pay.gif)
 
 
 ### 下载体验
 
-![image](../img/pay-demo.png)
+![image](https://github.com/chaychan/WechatH5PayDemo/blob/master/img/pay-demo.png)
 
 
 ### 实现方式
